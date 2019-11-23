@@ -1,9 +1,9 @@
 [submodule "cinch-utils"]
 	path = cinch-utils
-	url = ../cinch-utils.git
+	url = git@github.com:laristra/cinch-utils.git
 [submodule "cinch"]
 	path = cinch
-	url = ../cinch.git
+	url = git@github.com:laristra/cinch.git
 [submodule "legion"]
 	   path = legion
 	   url = git@gitlab.com:StanfordLegion/legion.git
