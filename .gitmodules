@@ -1,12 +1,10 @@
-[submodule "legion"]
-	path = legion
-	url = ../../StanfordLegion/legion.git
 [submodule "cinch-utils"]
 	path = cinch-utils
 	url = ../cinch-utils.git
 [submodule "cinch"]
 	path = cinch
 	url = ../cinch.git
-[submodule "hpx"]
-	path = hpx
-	url = ../../STEllAR-GROUP/hpx.git
+[submodule "legion"]
+	   path = legion
+	   url = git@gitlab.com:StanfordLegion/legion.git
+	   branch = control_replication
